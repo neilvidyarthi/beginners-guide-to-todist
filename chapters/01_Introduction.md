@@ -8,4 +8,4 @@ Keeping your todo-lists on scraps of paper has its drawbacks, however. It is eas
 
 *Amir Salihefendic* is the founder and CEO of [Doist](https://doist.com), a company the develops productivity software, including Todoist.
 
-*Thomas Mailund* is an associate professor of bioinformatics at Aarhus University, Denmark, and a user of Todoist since its earliest beta versions more than ten years ago.
+*Thomas Mailund* is an associate professor of bioinformatics at Aarhus University, Denmark, author of several textbooks, and a user of Todoist since its earliest beta versions more than ten years ago.
