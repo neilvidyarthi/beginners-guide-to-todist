@@ -1,2 +1,6 @@
-# beginners-guide-to-todist
-The Beginner's Guide to Todoist
+# The Beginner's Guide to Todoist
+
+Tutorial for the [Todoist](https://todoist.com) TODO manager.
+
+![Cover](cover.png)
+
