@@ -1,4 +1,4 @@
-# Getting Started
+# Getting started
 
 Todoist is predominately an online service, but with native apps that permits you to work with todo-lists when you are offline and then synchronise any changes when you get online again. In this chapter, we guide you through setting up a Todoist account and installing Todoist apps if you so desire.
 
