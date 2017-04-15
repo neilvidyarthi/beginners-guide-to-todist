@@ -44,6 +44,56 @@ With a premium subscription, you can turn filters into a much more powerful by c
 
 ## Reminders
 
+With a premium subscription you can also get reminders from Todoist. There are three different types of reminders: automatic reminders, explicit reminders, and location reminders.
+
+Automatic reminders are used when you assign a time as well as a date to a task. If you do, you will receive a reminder about the task 30 minutes before the due date. You can change the default time by going to *Settings* and then *Reminders*.
+
+![](figures/settings.png)
+
+![](figures/reminder-settings.png)
+
+How you receive reminders depend on the platform you are on. If you only use the web version of Todoist, you will need to set up text messages or emails to make sure you get a notification, but if you set up Todoist on a mobile device---iOS or Android---you can get notifications there and ensure you never miss a reminder.
+
+Automatic reminders will handle many common tasks, but receiving a reminder 30 minutes---or whatever you choose in your settings---might not be optimal for tasks that you might have to worry about days before their deadlines. When the automatic reminder does not suffice, you can set reminders explicitly.
+
+When you are adding a task to Todoist, you can click on the alarm clock under the task title to set a custom reminder.
+
+![](figures/setting-reminders.png)
+
+This opens up a field where you can specify a reminder. There is a drop-down selection that is set as a clock by default. With this option selected, you can specify a date and a time for a reminder.
+
+![](figures/setting-time-reminders.png)
+
+![](figures/setting-time-reminders-2.png)
+
+After setting a reminder, you will automatically open a field for adding another one. Press **ESC** to abort the next reminder to finish adding reminders, or type in as many as you want.
+
+![](figures/setting-time-reminders-3.png)
+
+A task with reminders associated will be shown with an alarm clock icon to the right of its title.
+
+![](figures/setting-time-reminders-4.png)
+
+If you have a mobile device with Todoist on it, you can also use location awareness to set up reminders when you enter or when you leave a location.
+
+To set up a location reminder, you need to add a reminder as before, but you should click the watch-icon to change the reminder from being associated with a given time to being associated with a location.
+
+![](figures/selecting-location-reminder.png)
+
+For the actual location, you need to type in an address. You can also specify whether you want the reminder when you arrive at the location, or when you leave.
+
+![](figures/selecting-location-reminder-2.png)
+
+Once you have added a reminder, you will automatically start making another, and again you can press **ESC** to finish adding them.
+
+![](figures/selecting-location-reminder-3.png)
+
+If you want a location reminder with a location you have used before, you can click the icon to the right of the address field and select a recent location.
+
+![](figures/selecting-location-reminder-4.png)
+
 ## Comments and file uploads
+
+
 
 ## Integration with mail and calendars

@@ -36,7 +36,17 @@ You can just cancel the new task, either by clicking on **Cancel** or by hitting
 
 ![](figures/after-adding-and-cancel.png)
 
-When you write the title of a task, Todoist will try to parse some of what you write and use it as meta-information. If you write something that can be interpreted as a date---like "today", "tomorrow", "next Sunday", "April 15"---it will interpret this as the completion data and use it as such. You can also add recurring due dates to your tasks like "every first of the month" or "every Monday". If you want to put the task in a project---more on projects below---you can write a hash-tag and then the project name, e.g. `#Personal`.
+When you write the title of a task, Todoist will try to parse some of what you write and use it as meta-information. If you write something that can be interpreted as a date---like "today", "tomorrow", "next Sunday", "April 15"---it will interpret this as the completion data and use it as such. You can also add recurring due dates to your tasks like "every first of the month" or "every Monday".
+
+You can add a time for a task as well as a date. To do this, just write a complete date as normal but follow it with "@" and then a time. You can do this either in the free text that Todoist will try to parse as a date and time or you can do it in the field for setting the due date.
+
+![](figures/setting-due-time.png)
+
+If you have successfully added a time as well as a date, you will see this when the task has been added.
+
+![](figures/due-time.png)
+
+If you want to put the task in a project---more on projects below---you can write a hash-tag and then the project name, e.g. `#Personal`.
 
 ### Setting task priorities
 
