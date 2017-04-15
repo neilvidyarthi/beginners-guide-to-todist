@@ -126,3 +126,19 @@ The number of comments added to a project or a task will be shown next to their 
 
 ## Integration with mail and calendars
 
+Also available as premium features are integration with mail and calendars. You can access these features inside a project view by clicking on the tools icon to the right of the project title, or from the project list menu on the left.
+
+![](figures/project-settings.png)
+
+![](figures/project-settings-2.png)
+
+The mail integration gives you an email address that you can use to add tasks to a project via emails. Sending emails to this address will construct a task in the project. You can specify priorities, labels, and dates from the subject or body of the email.
+
+![](figures/email-integration.png)
+
+Adding tasks via emails might not seem that useful compared to just adding tasks directly to Todoist, but it is a convenient way of making tasks out of emails: you can forward emails to relevant Todoist projects and add meta information in the forwarded email's body. Attachments and the forwarded email will be added as comments to the task you create this way.
+
+Calendar integration gives you a calendar feed you can subscribe to. Tasks in a project you subscribe to will be shown, on their due dates, in your calendar program if you do this.
+
+![](figures/calendar-integration.png)
+
