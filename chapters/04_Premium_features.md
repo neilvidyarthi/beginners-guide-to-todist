@@ -38,6 +38,10 @@ The only thing you can "edit" about labels, though, is the colour associated wit
 
 ## Filters
 
+With a premium subscription, you can turn filters into a much more powerful by customising them. With a basic subscription, you are stuck with the ones that are already defined, but with a premium subscription you can add new filters and use them to show tasks matching a query. You can use the query language described [in the Todoist manual](https://support.todoist.com/hc/en-us/articles/205248842-Filters) and filter on labels, projects, priority and due dates. Below we show an example where we define a filter for upcoming travels. We specify a query that matches all tasks with the `@travels` label and that are due within the next 30 days. The tasks matching the query are shown in the list on the right.
+
+![](figures/custom-filters.png)
+
 ## Reminders
 
 ## Comments and file uploads
