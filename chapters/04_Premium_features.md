@@ -94,6 +94,35 @@ If you want a location reminder with a location you have used before, you can cl
 
 ## Comments and file uploads
 
+You can add additional information to both projects and tasks using comments. You can get access to project comments by clicking the dialogue icon next to a project title.
 
+![](figures/project-comments-premium.png)
+
+You can then write a text as a comment, upload a file, or add a recording.
+
+![](figures/adding-project-comment.png)
+
+![](figures/adding-project-comment-2.png)
+
+Files you upload will be shown together with text comments.
+
+![](figures/adding-project-comment-3.png)
+
+Project comments is also how you can communicate with your collaborators in a shared project.
+
+You can add task comments by clicking on the dialogue icon next to a task title---if there are no comments associated to a task, you will need to move your pointer there before the icon appears. 
+
+![](figures/task-comment.png)
+
+Adding a comment to a task works just as adding a comment to a project.
+
+![](figures/adding-task-comment.png)
+
+![](figures/adding-task-comment-2.png)
+
+The number of comments added to a project or a task will be shown next to their comment-icons.
+
+![](figures/adding-task-comment-3.png)
 
 ## Integration with mail and calendars
+
