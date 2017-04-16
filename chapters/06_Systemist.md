@@ -3,11 +3,13 @@
 One of the hardest things about adopting a productivity tool isn’t learning to use the tool itself, but having a reliable productivity workflow. In this chapter, we want to introduce you to Systemist, a workflow developed by Amir over the past ten years.
 
 ## Why would you have a workflow?
+
 A productivity workflow is a collection of patterns you use to organize yourself. In the beginning, adopting a workflow might feel strange, but after a while, it will be running on auto-pilot, and you will be able to focus on completing important tasks instead of managing them (or forgetting about them).
 
 The truth is that our lives and the world we live in are too complicated to just wing things. A reliable system can help you prioritize the important things and juggle many things at once without feeling overwhelmed and stressed.
 
 ## Systemist
+
 Systemist is a simplified workflow built for the modern world. Systemist works best with Todoist, given that the app is built the app around it, but it can work with most other productivity apps as well. The core principles are much more important than the tools.
 
 Systemist has 6 simple components.
@@ -83,5 +85,6 @@ This workflow works nicely and lets you get some done without being interrupted 
 
 ## Other workflows
 Todoist is quite versatile and it works with most other workflows. Here’s some of them: 
+
 * [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done) [GTD]. There’s a guide you can follow [here](https://todoist.com/gtd) on how to get GTD inside Todoist.
 * [Pomodoro with Todoist](https://support.todoist.com/hc/en-us/articles/210762349-Pomodoro-with-Todoist).
