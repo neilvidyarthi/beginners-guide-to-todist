@@ -1,10 +1,10 @@
 # Premium features
 
-The basic features you have with a free Todoist account suffices for most users of Todoist, but with a premium subscription you get extra features that enhances the user experience. We describe these features in this chapter. If you are not interested in having a premium subscription, you can skip to the next chapter.
+The basic features you have with a free Todoist account suffices for most users of Todoist, but with a premium subscription, you get extra features that enhance the user experience. We describe these features in this chapter. If you are not interested in having a premium subscription, you can skip to the next chapter.
 
 ## Labels
 
-Labels provide an alternative and orthogonal way of organising your tasks. You can use projects to organise your tasks so related tasks are grouped together, but tasks often have different relationships depending on how you look at them. Some are related by their due date or priority, aspects you can explicitly specify for all tasks, some are related because they belong to the same overall project, which is what the projects handle, but others are related for example by where you must be to handle tasks---at home, at the office, out shopping---or how much effort it will take to handle them---some tasks you might need to dedicate several hours to, to get into flow, while others you can handle whenever you have a few minutes free. These kinds of tasks can be grouped using labels.
+Labels provide an alternative and orthogonal way of organising your tasks. You can use projects to organise your tasks, so related tasks are grouped together, but tasks often have different relationships depending on how you look at them. Some are related because of their due date or priority, aspects you can explicitly specify for all tasks. Some are related because they belong to the same overall project, which is what the projects handle. Others are related for example because of where you must be to handle tasks---at home, at the office, out shopping---or how much effort it will take to handle them---some tasks you might need to dedicate several hours to, to get into flow, while others you can handle whenever you have a few minutes free. These kinds of tasks can be grouped using labels.
 
 You can get the list of labels you have associated with your tasks by clicking *Labels* to the right of *Projects* to the left of the Todoist window.
 
@@ -22,13 +22,13 @@ After adding a label, the label will be highlighted in the task description.
 
 You can add as many labels as you want.
 
-Incidentally, projects can be associated with tasks the same way, just using "#" instead of "@". Just press "#" and type a project name. Again, you can autocomplete on existing project or type a new project name and create the project when you add the task.
+Incidentally, projects can be associated with tasks the same way, just using "#" instead of "@". Just press "#" and type a project name. Again, you can autocomplete on an existing project or type a new project name and create the project when you add the task.
 
 ![](figures/quick-adding-task-with-label-and-project.png)
 
 ![](figures/quick-adding-task-with-label-and-project-2.png)
 
-If you move your pointer over a label name you see three dots that you can use to bring up a menu for a label. All you can really do with labels is delete them or edit them.
+If you move your pointer over a label name, you see three dots that you can use to bring up a menu for a label. All you can really do with labels is delete them or edit them.
 
 ![](figures/edit-labels.png)
 
@@ -44,7 +44,7 @@ With a premium subscription, you can turn filters into a much more powerful by c
 
 ## Reminders
 
-With a premium subscription you can also get reminders from Todoist. There are three different types of reminders: automatic reminders, explicit reminders, and location reminders.
+With a premium subscription, you can also get reminders from Todoist. There are three different types of reminders: automatic reminders, explicit reminders, and location reminders.
 
 Automatic reminders are used when you assign a time as well as a date to a task. If you do, you will receive a reminder about the task 30 minutes before the due date. You can change the default time by going to *Settings* and then *Reminders*.
 
@@ -52,7 +52,7 @@ Automatic reminders are used when you assign a time as well as a date to a task.
 
 ![](figures/reminder-settings.png)
 
-How you receive reminders depend on the platform you are on. If you only use the web version of Todoist, you will need to set up text messages or emails to make sure you get a notification, but if you set up Todoist on a mobile device---iOS or Android---you can get notifications there and ensure you never miss a reminder.
+How you receive reminders depend on the platform, you are on. If you only use the web version of Todoist, you will need to set up text messages or emails to make sure you get a notification, but if you set up Todoist on a mobile device---iOS or Android---you can get notifications there and ensure you never miss a reminder.
 
 Automatic reminders will handle many common tasks, but receiving a reminder 30 minutes---or whatever you choose in your settings---might not be optimal for tasks that you might have to worry about days before their deadlines. When the automatic reminder does not suffice, you can set reminders explicitly.
 
@@ -76,7 +76,7 @@ A task with reminders associated will be shown with an alarm clock icon to the r
 
 If you have a mobile device with Todoist on it, you can also use location awareness to set up reminders when you enter or when you leave a location.
 
-To set up a location reminder, you need to add a reminder as before, but you should click the watch-icon to change the reminder from being associated with a given time to being associated with a location.
+To set up a location reminder, you need to add a reminder as before, but you should click the watch icon to change the reminder from being associated with a given time to being associated with a location.
 
 ![](figures/selecting-location-reminder.png)
 
@@ -108,9 +108,9 @@ Files you upload will be shown together with text comments.
 
 ![](figures/adding-project-comment-3.png)
 
-Project comments is also how you can communicate with your collaborators in a shared project.
+Project comments are also how you can communicate with your collaborators in a shared project.
 
-You can add task comments by clicking on the dialogue icon next to a task title---if there are no comments associated to a task, you will need to move your pointer there before the icon appears. 
+You can add task comments by clicking on the dialogue icon next to a task title---if there are no comments associated with a task, you will need to move your pointer there before the icon appears. 
 
 ![](figures/task-comment.png)
 
