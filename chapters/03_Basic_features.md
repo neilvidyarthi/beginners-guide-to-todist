@@ -1,26 +1,26 @@
 # Basic features
 
-In this chapter, we will go through the basic features available in a free Todoist account. For most users, these will suffice to increase your productivity using Todoist, but with a premium subscription, you get extra features that we describe in the next chapter.
+In this chapter, we will go through the basic features available in a free Todoist account. For most users, these will suffice to increase your productivity, but for those of you who are looking for more, we examine the features available in a premium subscription in the next chapter.
 
 ## Tasks
 
-If you complete the default tasks you created when you signed up for your Todoist account---you do this by clicking on the circle to the left of the task title---or if you simply delete them, you should have an empty list of "Today's tasks".
+If you have completed the default tasks you created when you signed up for your Todoist account (you do this by clicking on the circle to the left of the task title) or if you have simply deleted all of your tasks, you should have an empty list of today's tasks.
 
 ![Completing a task.](figures/completing-task.png)
 
 ![An empty Today's tasks list.](figures/clean-today.png)
 
-This is where you want to be at the end of each day, but of course, you want to be able to add tasks to complete as well. Otherwise, it is easy to get an empty tasks list but absolutely useless as well.
+This empty list is where you want to be at the end of each day, after you’ve completed all of your tasks. However, you will only be productive if you actually add some tasks first so you have something to mark as completed. A task list is only as effective as the tasks you choose to add.
 
 To add a new task, you can click on the "Add task" link.
 
 ![Add task button.](figures/add-task-button.png)
 
-This gives you a field where you can write the title of the task and the date it should be completed. If you are in the Today list when you add the task, the current date will automatically be inserted as the completion date; otherwise, the completion date will be empty. 
+This presents you with a field where you can write out the title of the task and select the date it should be completed. If you are in the *Today* view when you add the task, the completion date defaults to the current date; otherwise, the completion date will be empty.
 
 ![Add task.](figures/add-task.png)
 
-You can also "quick add" a task using the keyboard short-cut **Q**. Here, you have the same options as if you add a task in the Today's list, but the task will, by default, be added to the Inbox list, even if you are currently looking at Today's list or a Project, and the completion date will not be automatically set.
+You can also "quick add" a task using the keyboard shortcut **Q**. Here, you have the same options as if you add a task in the Today's list, but the task will, by default, be added to the *Inbox* list, even if you are currently looking at Today's list or a project, and the completion date will not be automatically set.
 
 ![Quick add task.](figures/quick-add-task.png)
 
@@ -36,9 +36,9 @@ You can just cancel the new task, either by clicking on **Cancel** or by hitting
 
 ![](figures/after-adding-and-cancel.png)
 
-When you write the title of a task, Todoist will try to parse some of what you write and use it as meta-information. If you write something that can be interpreted as a date---like "today", "tomorrow", "next Sunday", "April 15"---it will interpret this as the completion data and use it as such. You can also add recurring due dates to your tasks like "every first of the month" or "every Monday".
+When you write out the title of a task, Todoist will try to understand some of what you write and use it as meta-information. If you write something that can be interpreted as a date---like "today", "tomorrow", "next Sunday", "April 15"---it will interpret this and set your completion date as such. You can also add recurring due dates to your tasks like "every first of the month" or "every Monday".
 
-You can add a time for a task as well as a date. To do this, just write a complete date as normal but follow it with "@" and then a time point. You can do this either in the free text that Todoist will try to parse as a date and time or you can do it in the field for setting the due date.
+You can add a time for a task as well as a date. To do this, just write a complete date as normal but follow it with "@" and then a time point. You can set the time from within the input text box or you can set it from the date scheduler.
 
 ![](figures/setting-due-time.png)
 
@@ -58,23 +58,25 @@ This opens a small dialogue where you can select four different levels of priori
 
 ![](figures/select-priority-2.png)
 
-Since you are already typing in the task title, though, you can much easier add a priority by typing "p1", "p2", "p3", or "p4" to pick the priority level.
+Since you are already typing in the task title, though, it's much easier to add a priority by typing "p1", "p2", "p3", or "p4" to pick the priority level.
 
 ### Rescheduling tasks
 
-You don't necessarily want to schedule an end date for all tasks. Quite often, you have a large number of tasks for a project, and you want to get through them as the project progresses, but you don't necessarily want to schedule every single task---you will get to them when you get to them. Still, sometimes you have scheduled a task for a given date and yet haven't managed to complete it by that date. That leaves you with an overdue task.
+You don't necessarily want to schedule an end date for all tasks. Quite often, a project has many tasks and you don't necessarily want to schedule every single one right away. Some of the tasks have dependencies or are too distant to start scheduling. 
+
+However, there will inevitably be times where you set a completion date for a task and when the date arrives, you haven’t managed to complete it. That leaves you with an overdue task.
 
 ![](figures/overdue-task.png)
 
-If you click on the three dots to the right of the task title you open the menu for editing the task, and in this menu, you can select the option "More" as the three dots there.
+If you click on the three dots to the right of the task title you open the menu for editing the task. In this menu there are a series of quick action buttons that allow you to reschedule the task to tomorrow, next week or next month. If you want a specific date, you can select the option “More”, whose icon is again the three dots.
 
 ![](figures/task-options-more.png)
 
-Clicking there, options a calendar where you can reschedule the task.
+Clicking there opens a calendar where you can reschedule the task.
 
 ![](figures/task-calendar.png)
 
-Rescheduling a single task is relatively simple and fast, but if you have somehow managed to get behind on a project or two, so you have many overdue tasks, you might not want to reschedule the tasks individually. If so, Todoist offers an AI-based rescheduling option. To the top-right of the list of overdue tasks, you can click on *Reschedule overdue*.
+Rescheduling a single task is relatively simple, but if you’re behind on a few projects you may have many overdue tasks, which isn’t as easy to reschedule. For this case, Todoist offers an AI-based rescheduling option. To the top-right of the list of overdue tasks, you can click on *Reschedule overdue*.
 
 ![](figures/reschedule-overdue.png)
 
@@ -90,35 +92,42 @@ The reschedule suggestions will be based on your typical rescheduling patterns f
 
 ### Creating tasks with sub-tasks
 
-If you move your pointer to the left of a task title, you will see a handle for moving the task around.
+If you move your pointer to the left of a task title, you will see a handle for moving the task around, which works differently in different contexts.
 
 ![](figures/movement-handle.png)
 
-What you can do with this depends on whether you are in the *Today* or *Next 7 days* lists, or whether you are looking at a project or the *Inbox*. In the two completion date based lists, you can move tasks between different dates but not anything else. If you are in the *Inbox* view, or any of your projects, you move tasks between projects and make some tasks subtasks of others. To make a task into a subtask, you should simply move it in under the super task. You can nest tasks and subtasks as deep as you want. Keep in mind, though, that you cannot do this in the *Today* and *Next 7 days* lists; you do need to be in *Inbox* or a project list.
+In the *Today* task view, you can drag a task to the bottom of the list to postpone it to tomorrow.
+In the *Next 7 days* task view, you can drag tasks to different completion dates. 
+
+If you are in the *Inbox* view, or any of your specific projects, you can drag tasks between projects but you can also turn tasks into the subtasks of other tasks.
+
+To make a task into a subtask, you can drag it in under the parent task and drag it slightly to the right to indent it. You can nest tasks and subtasks as deep as you want. Keep in mind that this only works in the *Inbox* or within a project view.
 
 ## Projects
 
-You have a list of projects shown on the bottom left of the Todoist window. 
+Your list of projects is shown on the bottom left pane of the Todoist window.
 
 ![Projects list.](figures/todoist-projects.png)
 
-These can be used to organise your tasks similar to how you organise files in directories or photos in albums. You can have as many as you want, and organise them into subprojects if you want to, but you probably do not want to overthink the projects organisation. If you have too many projects with too complex structure, your todo lists become overly complex, and rather than assisting you in increasing your productivity, they slow you down as you have to keep your tasks organised. It makes sense to have a list of long-term projects you are working on; projects you will work on for a few weeks or a few months are probably better handled as tasks with subtasks---but find out what works well for you.
+These can be used to organise your tasks in a similar way to how you organise files in directories or photos in albums. You can have as many projects as you want and you can organise them into subprojects if you’d like. However, you probably shouldn't overthink the project organisation. If you have too many projects with too complex a structure, your todo lists become overly complex and difficult to navigate, and rather than assisting you in increasing your productivity, they begin to slow you down as you search for the project you need. It makes sense to use projects for long-term work; you’re probably better to use tasks and subtasks for work you will complete in a few weeks or a few months. Of course, experiment to find out what works best for you.
 
-With a new Todoist account you have a few sample projects defined. You can add more by clicking on *Add Project* and you can edit or delete the existing projects by clicking on the three dots that appear when you move your pointer over a project title.
+Your new Todoist account comes with a few sample projects already defined. You can add more by clicking on Add Project and you can edit or delete the existing projects by clicking on the three dots that appear when you move your pointer over a project title. We go into more detail below.
 
 ![](figures/edit-project.png)
 
-The two topmost menu items you can use for inserting new projects, but you can alway just use *Add Project* as well and then move them around afterwards. You move projects around, and make projects into sub-projects, using a handle---similar to the tasks' handles---that appear when you move the pointer over a project title.
+From the menu, the two topmost menu items allow you to add a project adjacent to the currently selected project. However, it’s easy to move projects around and make projects into sub-projects using the handle that appears when you move the pointer over a project title. You can also use *Add Project* to create a project, then move it around as you like.
 
-The next menu item, *Edit project*, is used to change the level at which a project is nested---which isn't different from what you can do just by dragging and dropping projects---and for changing the colour of a project.
+The next menu item, *Edit project* allows you to change the level at which a project is nested with the indent and un-indent buttons. You can also rename the project, or change the colour of the project by clicking the dot to the left of the project name.
 
-After that, there is an option for sharing a project. If you select a project---by clicking on its title---you can also share it using the "person-plus" button at the top right of the window.
+There is also an item for sharing a project. If you select a project---by clicking on its title---you can also share it using the "person-plus" button at the top right of the task view window.
 
 ![Sharing a project.](figures/share-project.png)
 
-We return to sharing projects shortly.
+We will return to sharing projects shortly.
 
 The next two menu items, emailing tasks to a project and setting up a calendar feed, are premium features and covered in the next chapter. The last two menu items are two ways of getting rid of a project. You can archive it, and if you do you can get it back again by clicking on the *Archived projects* link below the projects list.
+
+If you delete a project, it, and all its tasks, are permanently gone.
 
 ![](figures/archived-projects.png)
 
@@ -130,7 +139,7 @@ Sharing projects is a feature for collaboration. If you select a project, you ca
 
 ![](figures/share-project.png)
 
-To share with someone you need to know the email address they have used to set up their Todoist account or have shared a project with them earlier, in which case you can search for them by name.^[If you have signed up using your Facebook account, you need to have an email account associated with that account for sharing to work.] 
+To share with someone you need to know the email address they have used to set up their Todoist account or have shared a project with them earlier, in which case you can search for them by name. ^[If you have signed up using your Facebook or Google account, you need to have an email account associated with that account for sharing to work.]
 
 ![](figures/send-invitation.png)
 
@@ -165,10 +174,10 @@ An actual project conversation is straightforward.
 
 ## Filters
 
-The final basic feature is *filters*. If you click at the *Filters* label on the right of the Todoist window you will get a list of your filters.
+The final basic feature is *filters*. If you click on the *Filters* label on the right of the Todoist window you will get a list of your filters.
 
 ![Filters.](figures/filters.png)
 
 It is possible to construct custom filters, but this is a premium feature, so we return to that in the next chapter. The basic filters you have available allows you to get a list of tasks assigned to yourself, assigned to anyone else, a list of tasks at each priority, all tasks whatsoever, and all tasks without a due date.
 
-With just the basic account, filters are not that useful. Filters let you construct queries that work as smart projects, but to get use out of this you want to be able to add labels to tasks and construct filters based on them, and both these features require a premium account.
+With just the basic account, filters are not as useful as they could be. Filters let you construct queries that work as smart projects, but to get use out of this you want to be able to add labels to tasks and construct filters based on them, and both these features are available only with a premium account.
