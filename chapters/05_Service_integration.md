@@ -1,12 +1,12 @@
 # Integrations
 
-Todoist integrates with hundreds of different apps and enables to get an overview of all your tasks and get a complete control of your life. In this chapter, we’ll briefly look at various integrations and how you can utilise them to become more organised and productive. You can find a full list on [Todoist’s integrations page](https://todoist.com/integrations).
+Todoist integrates with hundreds of different apps to enable you to get an overarching view of all your tasks across services -- it's a great way to get complete control of your life. In this chapter, we’ll briefly look at various integrations and how you can utilise them to become more organised and productive. You can find a full list on [Todoist’s integrations page](https://todoist.com/integrations).
 
 ## Mail integrations
 
-People spend [28% or more of their work emailing](https://www.washingtonpost.com/blogs/post-leadership/post/how-much-time-you-really-spend-emailing-at-work/2012/07/31/gJQAI50sMX_blog.html). Spending some energy on becoming better at emailing can probably save you much time.
+People spend [28% or more of their time at work sending and receiving email](https://www.washingtonpost.com/blogs/post-leadership/post/how-much-time-you-really-spend-emailing-at-work/2012/07/31/gJQAI50sMX_blog.html). Spending some energy on becoming better at emailing will save you a lot of time.
 
-Use [Todoist for Gmail](https://todoist.com/gmail) or [Todoist for Outlook](https://todoist.com/outlook) to easily add emails as tasks and manage your to-do list directly from your email client. When you add emails as tasks, you keep your inbox clean and have the ability to add due dates, reminders, and priorities to your emails (and see them with all the other tasks you have). We recommend that you use the [Inbox Zero workflow](http://www.43folders.com/izero) in combination with the Todoist plugin.
+Use [Todoist for Gmail](https://todoist.com/gmail) or [Todoist for Outlook](https://todoist.com/outlook) to easily add emails as tasks and manage your to-do list directly from your email client. When you add emails as tasks, you keep your inbox clean and have the ability to add due dates, reminders, and priorities to your emails (and see them with all the other tasks you have). We recommend that you use the [Inbox Zero workflow](http://www.43folders.com/izero) in combination with the Todoist plugin to keep your inbox as clear as possible and reduce the distractions of seeing hundreds of unread emails everytime you check your mail.
 
 ## Browser extensions
 
@@ -18,11 +18,11 @@ Install [Todoist for Chrome](https://todoist.com/chrome) or [Todoist for Firefox
 
 ## Speak to your personal assistant
 
-Todoist integrates directly with Alexa or Google Assistant and lets you easily add tasks from anywhere in your home by just speaking. Many people find this integration to be pure science-fiction, and it works surpassingly well.
+Todoist integrates directly with Alexa or Google Assistant and lets you easily add tasks from anywhere in your home by just speaking. Many people find this integration to feel like pure science-fiction and are even more surprised when it works extremely well.
 
 For example, you can just say “Alexa, add pick up the kids tomorrow at 2 pm to my todo-list”, and Alexa will add a task with a due date and a reminder to your Todoist project.
 
-Learn how to start to use [Todoist for Alexa](https://blog.todoist.com/2016/10/13/todoist-alexa-integration/) or [Todoist for Google Assistant](https://blog.todoist.com/2016/12/16/todoist-google-assistant/).
+Learn how to start using [Todoist for Alexa](https://blog.todoist.com/2016/10/13/todoist-alexa-integration/) or [Todoist for Google Assistant](https://blog.todoist.com/2016/12/16/todoist-google-assistant/).
 
 ## Time tracking using Toggl
 
@@ -30,10 +30,10 @@ In many professions, people are required to track the time they spend on each ta
 
 ## Automate your life using IFTTT and Zapier
 
-Todoist integrates with [IFTTT](https://ifttt.com/) and [Zapier](https://zapier.com/), some of the most popular automation tools. These automation tools enable you to create incredibly complex workflows between hundreds of different apps.
+Todoist integrates with [IFTTT](https://ifttt.com/) and [Zapier](https://zapier.com/), some of the most popular automation tools. These tools enable you to create incredibly sophisticated and useful workflows between hundreds of different apps.
 
 To give you an idea of how powerful this is let's look at an example. Let’s say you are a surfer and you would like to get reminded a day before the waves are going to be good. How would you solve this? Well, an easy way is to connect Surfline and Todoist on IFTTT. You can create an applet that adds a task to your #Surf project a day before the surf will be good at your local surf spot! The likelihood of you being a surfer isn't high, but hopefully, you get the point of how powerful this is.
 
-Zapier even supports [multi-step workflows](https://zapier.com/blog/workflow-automation/) involving many apps, including very powerful Todoist workflows. 
+Zapier even supports [multi-step workflows](https://zapier.com/blog/workflow-automation/) involving many apps giving you very powerful Todoist workflows. 
 
 It's only your imagination that sets a limit on what things you can automate and integrate with each other.
