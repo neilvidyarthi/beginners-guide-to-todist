@@ -10,7 +10,7 @@ The truth is that our lives and the world we live in are too complicated to just
 
 ## Systemist
 
-Systemist is a simplified workflow built for the modern world. Systemist works best with Todoist, given that the app is built the app around it, but it can work with most other productivity apps as well. The core principles are much more important than the tools.
+Systemist is a simplified workflow built for the modern world. Systemist works best with Todoist, given that the workflow was actually built around the app itself, but it can work with most other productivity apps as well. The core principles are much more important than the tools.
 
 Systemist has six simple components.
 
@@ -22,13 +22,13 @@ A productivity system is only useful if it captures all the important things goi
 
 Here are some of the things you can capture:
 
-* Follow-ups you need to do, could be with external people or within our team.
+* Follow-ups you need to do, whether its with your teammates or with people external to your organization.
 * Complex projects that have many smaller steps.
 * A shared shopping list with your partner.
 * Emails you can’t answer them right away. You can use [Todoist for Gmail](https://todoist.com/gmail) or [Outlook](https://todoist.com/outlook).
 * A shared release list with your colleagues.
 * Recurring tasks to check up on long-term projects you are doing.
-* Websites you can’t do right away. Could be adding an Amazon item you want to buy, adding an IMDB movie to your movie list, or saving articles to read later ([Todoist for Chrome](https://todoist.com/chrome)).
+* Web pages you can’t get to right away. Could be adding an Amazon item you want to buy, adding an IMDB movie to your movie list, or saving articles to read later ([Todoist for Chrome](https://todoist.com/chrome)).
 * A “Hiring” project of people you want to hire.
 * Bug reports that are related to you.
 * Health-related tasks (for example, weekly gym and running sessions).
@@ -44,16 +44,16 @@ It’s also critical to make things actionable. You should be able to complete e
 ### 4) Prioritize
 Todoist offers great tools to help you prioritise your days. Here’s how you can use these with Systemist:
 
-* Use due dates to specify when you want complete something. Schedule a low priority task for the future. A high priority task could be scheduled for today or tomorrow.
+* Use due dates to specify when you want to complete something. Schedule a low priority task for the future. A high priority task could be scheduled for today or tomorrow.
 * Use Todoist’s priority levels to prioritise daily tasks. This is super useful in the daily/weekly views as Todoist will automatically put higher priority tasks first.
 * Use labels to add even more prioritisation. For example, you could use a @high_impact label on tasks that will create a high impact. The great thing about label is that you can easily filter them across all of your projects
 
 ### 5) Get to to-do list zero daily
 With Systemist you would want to use “To-do list Zero”. The idea was inspired by [Inbox Zero](http://www.43folders.com/izero), and it’s quite simple: At the end of the day, you want zero tasks on your today list.
 
-The truth is that most days you won’t complete everything on your today list and you will most likely postpone things. No completing everything isn’t a negative thing; it’s an opportunity to take stock of where you are at, re-evaluate your tasks, and re-plan them.
+The truth is that most days you won’t complete everything on your today list and you will most likely postpone things. Not completing everything isn’t a negative thing; it’s an opportunity to take stock of your tasks, re-evaluate them, and then re-plan them.
 
-“Todolist Zero” keeps the system tidy, up-to-date, and, most importantly, manageable.
+“To-do list Zero” keeps the system tidy, up-to-date, and, most importantly, manageable.
 
 ### 6) Get consistent feedback
 Most productivity systems only focus on what you need to do and not what you have done. Where’s the fun if you don’t celebrate progress and don’t get insights into how productive you are?
@@ -78,10 +78,10 @@ Slack and other chat apps can be a huge productivity killer since they can inter
 Here’s how you deal with these messaging services:
 
 * Only be online when you want to be interrupted. Shut down these apps when you need to do focused work.
-* Try process chat in batches. For example, check chat apps a few times per day (maybe once an hour or so).
-* Disable all notifications from chat apps on mobile. (if people need to reach you give them a phone number).
+* Try to process chat in batches. For example, check chat apps a few times per day (maybe once an hour or so).
+* Disable all notifications from chat apps on mobile. (if people need to reach you then give them a phone number).
 
-This workflow works nicely and lets you get some done without being interrupted all the time.
+This workflow lets you get some work done without being interrupted all the time.
 
 ## Other workflows
 Todoist is quite versatile, and it works with most other workflows. Here’s some of them: 
