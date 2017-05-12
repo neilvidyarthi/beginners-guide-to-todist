@@ -80,7 +80,7 @@ You can also choose to delete a task from this drop-down menu.
 
 ![](figures/editing-tasks-4.png)
 
-If you want to get rid of the daily task that you added when you signed up in, this is the place to do it. If you just complete it, which you can do by clicking the circle to the left of the task, it will disappear from today's tasks but reappear tomorrow. If you delete it, you get rid of it.
+If you want to get rid of the daily task that you added when you signed up, this is the place to do it. If you just complete it, which you can do by clicking the circle to the left of the task, it will disappear from today's tasks but reappear tomorrow. If you delete it, you get rid of it.
 
 ## Native apps
 
