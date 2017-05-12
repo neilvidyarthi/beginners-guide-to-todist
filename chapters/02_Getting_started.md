@@ -1,10 +1,10 @@
 # Getting started
 
-Todoist is predominately an online service, but with native apps that permit you to work with todo-lists when you are offline and then synchronise any changes when you get online again. In this chapter, we guide you through setting up a Todoist account and installing Todoist apps if you so desire.
+Todoist is an online service that works on 10+ platforms and syncs your tasks across them all. In this chapter, we get started by setting up your Todoist account and installing the Todoist apps that apply to you.
 
 ## Setting up a Todoist account
 
-To set up a Todoist account, you should go to [http://www.todoist.com](http://www.todoist.com). If this is the first time you visit the site, the front page will look like the picture below. To set up an account, you should click the "Get Started - It's Free" button.
+To set up a Todoist account, you go to http://www.todoist.com. If this is the first time you visit the site, the front page will look like the picture below. To set up an account, you should click the "Get Started - It's Free" button.
 
 ![Todoist webpage.](figures/Todoist-frontpage.png)
 
@@ -18,7 +18,7 @@ Regardless of how you chose to sign up, you will be sent to a signup wizard. Cli
 
 ![](figures/todoist-signup-1.png)
 
-The first choice you get to make during sign up is the theme Todoist will use when it shows you your todo-lists. This is just the colour theme, and you can choose whatever you like---you can always change the theme later.
+The first choice you get to make during sign up is the theme Todoist will use when it shows you your todo-lists. You can choose whatever color you'd like, and don’t worry if you change your mind, you can always choose a new color later.
 
 ![](figures/todoist-signup-2.png)
 
@@ -30,7 +30,7 @@ Just type anything here---it is just used as an example, so it isn't so importan
 
 ![](figures/todoist-signup-4.png)
 
-Your third choice is a daily task. Daily are tasks that will be added to your todo-list each day---if you complete them, they will be added again the next day, if you do not complete them, they are moved to your overdue tasks but not added again for each day.
+Your third choice is to add a daily task. Daily are tasks that will be added to your todo-list each day---if you complete them, they will be added again the next day, if you do not complete them, they are moved to your overdue tasks but not added again for each day.
 
 ![](figures/todoist-signup-5.png)
 
@@ -38,7 +38,7 @@ Since the task is just there as an example of repeated tasks, you can write anyt
 
 ![](figures/todoist-signup-6.png)
 
-After that, you are done with the sign-up. You can choose to subscribe to the Todoist blog if you want to be updated with productivity tricks and news about Todoist, or choose not to if you don't want to.
+After that, you are done with the sign-up. You can choose to subscribe to the Todoist blog if you’re interested in productivity tricks and news about Todoist or you can choose not to subscribe.
 
 ![](figures/todoist-signup-7.png)
 
@@ -54,7 +54,7 @@ This interface shows you a list of projects on the left---there are some default
 
 If you click on any of the projects, you will be shown the tasks associated with the selected project. Right now, though, none of the projects has any tasks associated---you are being shown the two tasks you created when signing up as part of today's tasks and these are part of the special project "Inbox".
 
-There are three views of your todo lists that are not directly associated with projects: Your Inbox, your tasks for today, and your tasks for the next seven days. You can pick between these three views at the upper left of the window.
+There are three useful task views that are not directly associated with projects: Your Inbox, your tasks for today, and your tasks for the next seven days. You can pick between these three views at the upper left of the window.
 
 ![](figures/todoist-special-folders.png)
 
@@ -80,8 +80,9 @@ You can also choose to delete a task from this drop-down menu.
 
 ![](figures/editing-tasks-4.png)
 
-If you want to get rid of the daily task, you added when you signed up; this is the place to do it. If you just complete it, which you can do by clicking the circle to the left of the task, it will disappear from today's tasks but reappear tomorrow. If you delete it, you get rid of it.
+If you want to get rid of the daily task that you added when you signed up in, this is the place to do it. If you just complete it, which you can do by clicking the circle to the left of the task, it will disappear from today's tasks but reappear tomorrow. If you delete it, you get rid of it.
 
 ## Native apps
 
-In many cases, working with Todoist through your web browser is a convenient choice, but if you are on the road and not always online, you might want to install it as a native app, where you can work with Todoist offline. You can get apps for different platforms by going to [https://en.todoist.com/downloads](https://en.todoist.com/downloads). There are desktop apps for MacOS and Windows, mobile apps for iOS and Android, and even wearable apps for iWatch and Android Wear. On the same page, you can get browser extensions for integrating Chrome, Safari, or Firefox with Todoist---making it easy to make web pages into tasks---and you can get plugins for integrating Outlook or Gmail with Todoist, making it easy to translate emails into tasks.
+In many cases, working with Todoist through your web browser is a convenient choice, but if you are on the road and not always online, you might want to install it as a native app, where you can work with Todoist offline. You can get apps for different platforms by going to https://en.todoist.com/downloads. There are desktop apps for MacOS and Windows, mobile apps for iOS and Android, and even wearable apps for iWatch and Android Wear. On the same page, you can get browser extensions for integrating Chrome, Safari, or Firefox with Todoist---making it easy to turn web pages into tasks. You can also get plugins for integrating Outlook or Gmail with Todoist, making it easy to translate emails into tasks.
+
